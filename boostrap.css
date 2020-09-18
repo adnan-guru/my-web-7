@@ -1,0 +1,77 @@
+
+.button1{
+    background-color: green;
+    color: #fff;
+}
+.naav{
+    padding-left: 550px;
+}
+
+
+.base-header.logged-out-homepage-header .categories_menu-package .categories {
+    padding: 0 30px;
+    box-sizing: border-box;
+}
+.categories-menu-package .categories.nav-tool-categories {
+    position: relative;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.categories-menu-package .categories {
+    padding: 0;
+    margin: 0 auto;
+    overflow: visible;
+}
+
+.categories-menu-package .categories {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    max-width: 1400px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    margin-bottom: -60px;
+    padding-bottom: 60px;
+}
+.categories-menu-package .categories {
+    padding: 0;
+    margin: 0;
+}
+ul, ol, nav ul, nav ol {
+    list-style: none;
+    list-style-image: none;
+}
+    
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+  
